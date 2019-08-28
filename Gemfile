@@ -17,7 +17,10 @@ gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
-
+# IBM Watson support
+gem 'jaro_winkler', '~> 1.4'
+gem 'parser', '~> 2.6', '>= 2.6.3.0'
+gem 'powerpack', '~> 0.1.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
