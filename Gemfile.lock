@@ -125,7 +125,7 @@ GEM
     pg (1.1.4)
     powerpack (0.1.2)
     public_suffix (3.1.1)
-    puma (3.12.1)
+    puma (3.12.4)
     rack (2.0.7)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
@@ -224,7 +224,7 @@ DEPENDENCIES
   parser (~> 2.6, >= 2.6.3.0)
   pg (>= 0.18, < 2.0)
   powerpack (~> 0.1.2)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rails (~> 5.2.3)
   rails_12factor
   sass-rails (~> 5.0)
